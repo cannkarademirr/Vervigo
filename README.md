@@ -1,7 +1,7 @@
 # Vervigo – Social Media for Restaurants & Nightlife
 
 ## Overview  
-**Vervigo** is a **social media and discovery platform** that connects users with their city’s restaurants, cafés, and nightlife venues.  
+**Vervigo** is a **social media and discovery platform** that connects users with their city’s restaurants, cafes, and nightlife venues.  
 It provides:  
 - 🥗 **Discounted restaurant promotions**  
 - 🎉 **Event discovery at nightclubs and venues**  
